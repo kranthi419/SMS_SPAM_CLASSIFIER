@@ -1,4 +1,5 @@
 # SMS_SPAM_CLASSIFIER
+![](Images/Capture.PNG)
 Classification of sms spam messages using naive bayes.
 SMS Spam Collection v.1
 -------------------------
